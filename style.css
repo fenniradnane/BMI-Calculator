@@ -1,0 +1,43 @@
+
+body{
+    margin: auto;
+    text-align: center;
+    background-image: url("/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg");
+    background-size: cover;
+}
+
+h1{
+    color: rgb(38, 63, 117);
+}
+
+h2{
+    color: rgb(47, 150, 235);
+    text-decoration:underline;
+}
+
+p{
+    color: brown;
+    font-weight: bolder;
+    
+}
+
+span{
+    color: rgb(182, 133, 228);
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+
+input{
+    color: blue;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+div{
+    background: linear-gradient(rgb(154, 154, 214), rgb(240, 203, 209) , rgb(135, 211, 35));
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+    margin-top: 100px;
+    border-radius: 10px;
+}
